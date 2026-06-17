@@ -1,0 +1,8 @@
+{
+  "name": "Accounting Builder Prompt Expert",
+  "description": "Interactive system prompt workspace tailored for Jack Kapphahn Roadrunner Tax in Longview, Texas. Configure branding themes, page sitemaps, regional Texas energy accounting focus parameters, and leverage Gemini to optimize your AI website builder prompt blocks in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
